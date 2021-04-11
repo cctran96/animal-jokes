@@ -1,0 +1,40 @@
+{
+    "animal": [
+        {
+            "id": 1,
+            "name": "chicken",
+            "joke": "What do you call a mischievous egg?",
+            "punchline": "A practical yolker!"
+        },
+        {
+            "id": 2,
+            "name": "panda",
+            "joke": "Why do pandas like old movies?",
+            "punchline": "Because they're in black and white!"
+        },
+        {
+            "id": 3,
+            "name": "polar bear",
+            "joke": "What are polar bears called when they get caught in the rain?",
+            "punchline": "Drizzly bears."
+        },
+        {
+            "id": 4,
+            "name": "Donkey",
+            "joke": "What does a donkey do when you tell him a joke?",
+            "punchline": "He-ha's"
+        },
+        {
+            "id": 5,
+            "name": "Dog",
+            "joke": "Why are dogs such bad dancers?",
+            "punchline": "They have two left feet!"
+        },
+        {
+            "id": 6,
+            "name": "Cat",
+            "joke": "Where does a cat go when it loses its tail?",
+            "punchline": "The re-tail store!"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+html {
+    background-color:rgb(191, 245, 238);
+}
+
+h1 {
+    text-align: center;
+    color:rgb(12, 80, 76);
+    font-family: fantasy;
+    margin: auto;
+    padding-top: 50px;
+    padding-bottom: 25px;
+}
+
+button {
+    background-color: black;
+    border: 1px white;
+    color: white;
+    padding: 10px 24px;
+    cursor: pointer;
+    width: 15%;
+    display: inline-block;
+    transition: all 200ms ease;
+    border-radius: 5px;
+    margin-bottom: 50px;
+}
+
+button:hover {
+    background-color: rgb(12, 80, 76);
+}
+
+#buttons {
+    text-align: center;
+    font-family: fantasy;
+    color: rgb(12, 80, 76);
+}
+
+table {
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 25px;
+    text-align: center;
+    font-family: fantasy;
+}
