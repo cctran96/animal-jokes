@@ -60,7 +60,7 @@ document.addEventListener('DOMContentLoaded', function(){
 
         dog.addEventListener('click', function() {
             animal.innerHTML = ""
-            createTable('https://i.imgur.com/9T4t6X2.jpg',
+            createTable('https://miro.medium.com/max/1200/1*hv0vLmFSpmMOHGCym3xEeg.jpeg',
             object[4]['joke'], object[4]['punchline'])
         })
 
